@@ -1,5 +1,5 @@
 const a = () => {
-    return 5
+    return 6
 }
 const b = () => {
     alert("5")
